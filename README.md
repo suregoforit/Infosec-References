@@ -4,6 +4,7 @@ Infosec resources for ready reference.
 ## Incident Response:
 * Applied Incident Response: https://www.appliedincidentresponse.com/
 * Incident Response Consortium: https://www.incidentresponse.com/
+* VERIS Framework http://veriscommunity.net/index.html
 
 ## DFIR (Digital Forensiscs and Incident Response):
 * DFIR Training : https://www.dfir.training/
@@ -30,3 +31,4 @@ Online Free books:
 * Pentesting Bible: https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 * Awesome Incident Response: https://github.com/meirwah/awesome-incident-response
 * Grand List of Incident Management Frameworks: https://blog.gaborszathmari.me/grand-list-of-incident-management-frameworks/
+* 
